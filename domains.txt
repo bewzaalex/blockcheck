@@ -1,0 +1,20 @@
+# Mail sru
+mail.ru
+kinopoisk.ru
+
+# Vatnoklassniki
+ok.ru
+odnoklassniki.ru
+
+# Vtentakle
+vk.com
+vkontakte.ru
+mvkontakte.com
+vkadre.ru
+vk.cc
+vk.me
+incontact.ru
+
+# Other
+drweb.ru
+kaspersky.ru
