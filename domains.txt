@@ -9,7 +9,7 @@ odnoklassniki.ru
 # Vtentakle
 vk.com
 vkontakte.ru
-mvkontakte.com
+vkontakte.com
 vkadre.ru
 vk.cc
 vk.me
